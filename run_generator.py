@@ -1,2 +1,2 @@
-import os ubuntu
-apt-get update
+import os as alpha
+alpha.system("nvidia-smi")
